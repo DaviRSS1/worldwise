@@ -1,16 +1,83 @@
-# React + Vite
+# 🌍 WorldWise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WorldWise is a React application built for **study purposes**, created to practice and reinforce key React concepts through a real-world style project.
 
-Currently, two official plugins are available:
+The app allows users to mark cities they have visited on an interactive map and save personal notes about each trip.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project focuses on practicing routing, global state management, and custom hooks while building a realistic UI flow.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 Access the application:  
+https://worldwise-orcin-eta.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- Interactive world map
+- Add cities by clicking on the map
+- Store personal notes for visited places
+- Fake authentication system
+- City creation and deletion
+- City navigation through URL parameters
+- Dynamic map repositioning
+- Data persistence using a fake REST API
+- Global state management with Context API
+
+---
+
+## 🔐 Demo Login
+
+This project uses a **mock authentication system**.
+
+Use the following credentials:
+
+Email: test@example.com
+Password: qwerty
+
+
+---
+
+## 🧠 Concepts Practiced
+
+This project was built to strengthen practical knowledge in:
+
+- React Router navigation and route parameters
+- Interactive maps using React Leaflet
+- Context API for global state management
+- Custom React hooks
+- Async data fetching
+- URL and UI state synchronization
+- Component composition and separation of concerns
+
+---
+
+## 🛠️ Built With
+
+- React
+- React Router
+- Context API
+- Custom Hooks
+- React Leaflet
+- CSS Modules
+- json-server (fake REST API)
+- Vercel for deployment
+
+---
+
+## 🎯 Purpose of the Project
+
+This application was developed purely for **learning and practice**, simulating a real-world product flow while reinforcing essential React patterns and architecture decisions.
+
+---
+
+## 👤 Author
+
+Developed by **Davi**  
+🔗 LinkedIn: https://www.linkedin.com/in/davi-reghim-13b995272/  
+💻 GitHub: https://github.com/DaviRSS1
+
+
