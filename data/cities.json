@@ -1,51 +1,63 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "6a51",
+      "cityName": "Varginha",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2026-02-02T17:33:30.141Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
+        "lat": "-21.58593511478851",
+        "lng": "-45.45043945312501"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "0f5a",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-02-02T17:02:08.620Z",
+      "id": "2fad",
+      "cityName": "Perdizes",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2026-02-02T17:33:37.592Z",
       "notes": "",
       "position": {
-        "lat": "39.9998077220482",
-        "lng": "-0.0011372566223144533"
+        "lat": "-19.414792438099557",
+        "lng": "-46.91162109375001"
+      }
+    },
+    {
+      "id": "4acd",
+      "cityName": "Varginha",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2026-02-02T17:35:08.299Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.58250319640675",
+        "lng": "-45.453228950500495"
+      }
+    },
+    {
+      "id": "678d",
+      "cityName": "Varginha",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2026-02-02T17:35:29.105Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.582882307665336",
+        "lng": "-45.45387268066407"
+      }
+    },
+    {
+      "id": "5b4b",
+      "cityName": "Varginha",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2026-02-02T17:35:31.423Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.584159306709196",
+        "lng": "-45.456297397613525"
       }
     }
   ]
