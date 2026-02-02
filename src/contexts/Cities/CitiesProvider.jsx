@@ -1,7 +1,7 @@
 import { useEffect, useReducer } from "react";
 import { CitiesContext } from "./CitiesContext";
 
-const URL = "http://localhost:8000";
+const URL = "https://cities-api-cf32.onrender.com";
 
 const initialState = {
   cities: [],
