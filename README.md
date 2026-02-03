@@ -4,7 +4,7 @@ WorldWise is a React application built for **study purposes**, created to practi
 
 The app allows users to mark cities they have visited on an interactive map and save personal notes about each trip.
 
-This project focuses on practicing routing, global state management, and custom hooks while building a realistic UI flow.
+This project focuses on practicing routing, global state management, custom hooks, and performance optimizations using **lazy loading** and **useCallback** while building a realistic UI flow.
 
 ---
 
@@ -26,6 +26,7 @@ https://worldwise-orcin-eta.vercel.app/
 - Dynamic map repositioning
 - Data persistence using a fake REST API
 - Global state management with Context API
+- Route-based code splitting with lazy loading
 
 ---
 
@@ -35,9 +36,8 @@ This project uses a **mock authentication system**.
 
 Use the following credentials:
 
-Email: test@example.com
+Email: test@example.com  
 Password: qwerty
-
 
 ---
 
@@ -49,6 +49,9 @@ This project was built to strengthen practical knowledge in:
 - Interactive maps using React Leaflet
 - Context API for global state management
 - Custom React hooks
+- Performance optimization using `useCallback`
+- Code splitting and route-based lazy loading
+- Reducing unnecessary re-renders in complex component trees
 - Async data fetching
 - URL and UI state synchronization
 - Component composition and separation of concerns
@@ -70,7 +73,7 @@ This project was built to strengthen practical knowledge in:
 
 ## 🎯 Purpose of the Project
 
-This application was developed purely for **learning and practice**, simulating a real-world product flow while reinforcing essential React patterns and architecture decisions.
+This application was developed purely for **learning and practice**, simulating a real-world product flow while reinforcing essential React patterns, architecture decisions, and performance optimization strategies.
 
 ---
 
@@ -79,5 +82,3 @@ This application was developed purely for **learning and practice**, simulating 
 Developed by **Davi**  
 🔗 LinkedIn: https://www.linkedin.com/in/davi-reghim-13b995272/  
 💻 GitHub: https://github.com/DaviRSS1
-
-
